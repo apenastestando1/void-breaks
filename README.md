@@ -27,4 +27,4 @@ Os arquivos na pasta `tools/` são voltados para plataformas e ambientes especí
 - Não nos responsabilizamos pelo uso dos códigos. É uma bancada técnica.
 
 ---
-**Créditos:** [[tiktok @on7dev](https://www.tiktok.com/@on7.dev)] — [[discord.gg/QAaPqnggAY](https://discord.gg/QAaPqnggAY)]
+**Créditos:** tiktok [@on7dev](https://www.tiktok.com/@on7.dev) — discord [.gg/QAaPqnggAY](https://discord.gg/QAaPqnggAY)
